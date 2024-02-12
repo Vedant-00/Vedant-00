@@ -6,9 +6,9 @@ I'm am an Android Developer, who is always looking to learn something new, somet
 
 ## I can code (obviously) 🛠
 ### Languages 🔠
-- Java
-- Kotlin
-- Python
+* Java
+* Kotlin
+* Python
 
 
 ## Current Status ⌚
@@ -17,7 +17,7 @@ I'm am an Android Developer, who is always looking to learn something new, somet
 🤔 I'm looking for help with Android Development
 
 📫 How to reach me
-- Discord: baddsky
+* Discord: baddsky
 
 ## More about me 📚
 😄 Pronouns: He/Him
