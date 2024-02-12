@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Vedantx7/Vedantx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vedant 👋
+I'm am an Android Developer, who is always looking to learn something new, something innovative!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I can code (obviously) 🛠
+### Languages 🔠
+- Java
+- Kotlin
+- Python
+
+
+## Current Status ⌚
+👩‍💻 I'm currently working on [MelonFeed](instagram.com/melon.feed)
+
+🤔 I'm looking for help with Android Development
+
+📫 How to reach me
+- Discord: baddsky
+
+## More about me 📚
+😄 Pronouns: He/Him
+
+⚡️ Fun fact: I code
