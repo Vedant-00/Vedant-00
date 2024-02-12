@@ -17,7 +17,7 @@ I'm am an Android Developer, who is always looking to learn something new, somet
 🤔 I'm looking for help with Android Development
 
 📫 How to reach me
-* Discord: "_vedanttt7_"
+* Discord: vedant0_
 
 ## More about me 📚
 😄 Pronouns: He/Him
