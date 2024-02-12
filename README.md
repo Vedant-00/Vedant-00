@@ -12,7 +12,7 @@ I'm am an Android Developer, who is always looking to learn something new, somet
 
 
 ## Current Status ⌚
-👩‍💻 I'm currently working on [MelonFeed](instagram.com/melon.feed)
+👩‍💻 I'm currently working on [MelonFeed](https://instagram.com/melon.feed)
 
 🤔 I'm looking for help with Android Development
 
