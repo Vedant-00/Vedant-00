@@ -28,4 +28,4 @@ I'm am an Android Developer, who is always looking to learn something new, somet
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantg7)
 [![melonfeed](https://img.shields.io/badge/FEED%20YOUR%20IDEAS-%235bce8d?style=for-the-badge&label=MELONFEED&labelColor=%23FF3B3C)](https://instagram.com/melon.feed)
 
-<a href="https://app.daily.dev/vedant0_"><img src="./devcard.png" width="652" alt="Vedant's Dev Card"/></a>
+<a href="https://app.daily.dev/vedant0_"><img src="./devcard.png" width="356" alt="Vedant's Dev Card"/></a>
