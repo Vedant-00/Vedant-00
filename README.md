@@ -25,7 +25,7 @@ I'm am an Android Developer, who is always looking to learn something new, somet
 ⚡️ Fun fact: I code
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantg7)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant0)
 [![melonfeed](https://img.shields.io/badge/FEED%20YOUR%20IDEAS-%235bce8d?style=for-the-badge&label=MELONFEED&labelColor=%23FF3B3C)](https://instagram.com/melon.feed)
 
 <a href="https://app.daily.dev/vedant0_"><img src="./devcard.png" width="356" alt="Vedant's Dev Card"/></a>
