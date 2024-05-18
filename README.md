@@ -8,9 +8,9 @@
 
 ###
 
-- 🔭 I’m currently working on [MelonFeed](instagram.com/melon.feed)
+- 🔭 I’m currently working on [MelonFeed](https://www.instagram.com/melon.feed)
 
-- 🤝 I’m looking for help with [MelonFeed](instagram.com/melon.feed)
+- 🤝 I’m looking for help with [MelonFeed](https://www.instagram.com/melon.feed)
 
 - ⚡ Fun fact **I know Python also.**
 
